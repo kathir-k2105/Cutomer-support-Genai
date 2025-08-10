@@ -1,0 +1,101 @@
+ticket_id,department,issue_category,date_reported,status
+TCKT-0001,HR,Leave Balance Issue,2024-10-25,Resolved
+TCKT-0002,Operations,Order Delay,2025-03-29,Resolved
+TCKT-0003,Operations,Inventory Mismatch,2024-08-20,Unresolved
+TCKT-0004,HR,Profile Update Request,2024-09-18,Resolved
+TCKT-0005,IT,Software Crash,2024-09-05,Resolved
+TCKT-0006,HR,Profile Update Request,2025-07-19,Unresolved
+TCKT-0007,Finance,Refund Request,2024-11-17,Unresolved
+TCKT-0008,HR,Payslip Not Accessible,2025-04-02,Resolved
+TCKT-0009,Operations,Order Delay,2024-09-04,Resolved
+TCKT-0010,Operations,Shipping Issue,2025-02-26,Resolved
+TCKT-0011,Operations,Shipping Issue,2025-03-20,Resolved
+TCKT-0012,Operations,Order Delay,2024-10-10,Resolved
+TCKT-0013,Sales,CRM Login Issue,2025-05-26,Resolved
+TCKT-0014,HR,Payslip Not Accessible,2025-03-18,Resolved
+TCKT-0015,Finance,Incorrect Billing,2025-02-11,Unresolved
+TCKT-0016,HR,Profile Update Request,2025-06-11,Unresolved
+TCKT-0017,Operations,Inventory Mismatch,2025-07-18,Resolved
+TCKT-0018,Sales,Lead Assignment Problem,2024-09-08,Resolved
+TCKT-0019,Sales,Missing Sales Data,2025-05-19,Resolved
+TCKT-0020,Finance,Incorrect Billing,2024-09-25,Resolved
+TCKT-0021,HR,Profile Update Request,2024-12-11,Resolved
+TCKT-0022,Operations,Order Delay,2025-05-06,Resolved
+TCKT-0023,IT,Laptop Not Booting,2025-08-04,Resolved
+TCKT-0024,HR,Leave Balance Issue,2024-08-12,Resolved
+TCKT-0025,Sales,Missing Sales Data,2025-04-22,Resolved
+TCKT-0026,Sales,CRM Login Issue,2024-10-16,Unresolved
+TCKT-0027,Operations,Shipping Issue,2025-05-07,Resolved
+TCKT-0028,Operations,Shipping Issue,2024-09-15,Resolved
+TCKT-0029,Sales,Lead Assignment Problem,2025-01-26,Resolved
+TCKT-0030,Operations,Shipping Issue,2025-04-07,Unresolved
+TCKT-0031,Operations,Inventory Mismatch,2025-03-01,Resolved
+TCKT-0032,HR,Leave Balance Issue,2025-07-25,Resolved
+TCKT-0033,Operations,Shipping Issue,2025-03-11,Unresolved
+TCKT-0034,HR,Leave Balance Issue,2024-08-28,Resolved
+TCKT-0035,Finance,Refund Request,2024-10-29,Resolved
+TCKT-0036,HR,Payslip Not Accessible,2024-10-18,Resolved
+TCKT-0037,Operations,Inventory Mismatch,2024-08-18,Unresolved
+TCKT-0038,Sales,Lead Assignment Problem,2025-07-16,Resolved
+TCKT-0039,Finance,Payment Failure,2025-06-23,Resolved
+TCKT-0040,Finance,Incorrect Billing,2025-04-03,Resolved
+TCKT-0041,Sales,Missing Sales Data,2025-04-02,Resolved
+TCKT-0042,Sales,Missing Sales Data,2024-09-10,Resolved
+TCKT-0043,HR,Profile Update Request,2025-01-23,Unresolved
+TCKT-0044,Sales,CRM Login Issue,2025-03-01,Resolved
+TCKT-0045,HR,Leave Balance Issue,2025-06-30,Unresolved
+TCKT-0046,Sales,Missing Sales Data,2025-07-27,Unresolved
+TCKT-0047,Finance,Refund Request,2025-06-30,Unresolved
+TCKT-0048,Finance,Payment Failure,2025-06-11,Resolved
+TCKT-0049,Operations,Shipping Issue,2024-09-18,Resolved
+TCKT-0050,HR,Leave Balance Issue,2025-04-02,Resolved
+TCKT-0051,IT,Password Reset,2025-03-11,Resolved
+TCKT-0052,HR,Profile Update Request,2025-07-28,Resolved
+TCKT-0053,Sales,CRM Login Issue,2024-10-24,Unresolved
+TCKT-0054,Operations,Order Delay,2025-02-10,Unresolved
+TCKT-0055,Operations,Inventory Mismatch,2025-03-08,Unresolved
+TCKT-0056,Operations,Inventory Mismatch,2024-09-16,Unresolved
+TCKT-0057,Operations,Inventory Mismatch,2024-09-05,Unresolved
+TCKT-0058,Sales,CRM Login Issue,2025-07-09,Resolved
+TCKT-0059,HR,Leave Balance Issue,2025-03-06,Resolved
+TCKT-0060,Finance,Refund Request,2025-02-15,Resolved
+TCKT-0061,Operations,Inventory Mismatch,2024-12-04,Resolved
+TCKT-0062,Sales,Lead Assignment Problem,2025-04-19,Unresolved
+TCKT-0063,Operations,Shipping Issue,2025-02-12,Resolved
+TCKT-0064,Sales,Lead Assignment Problem,2025-03-25,Resolved
+TCKT-0065,Sales,Missing Sales Data,2025-04-12,Unresolved
+TCKT-0066,Operations,Order Delay,2024-10-23,Resolved
+TCKT-0067,Finance,Refund Request,2025-06-29,Unresolved
+TCKT-0068,Finance,Refund Request,2025-08-07,Resolved
+TCKT-0069,Finance,Refund Request,2025-05-12,Resolved
+TCKT-0070,HR,Leave Balance Issue,2025-07-19,Resolved
+TCKT-0071,Sales,Missing Sales Data,2025-04-14,Resolved
+TCKT-0072,IT,Software Crash,2025-01-07,Resolved
+TCKT-0073,IT,Printer Not Working,2024-10-05,Resolved
+TCKT-0074,Operations,Shipping Issue,2024-10-31,Resolved
+TCKT-0075,Sales,Lead Assignment Problem,2025-01-19,Resolved
+TCKT-0076,HR,Payslip Not Accessible,2025-02-10,Resolved
+TCKT-0077,Finance,Incorrect Billing,2024-12-10,Resolved
+TCKT-0078,Sales,Lead Assignment Problem,2024-12-01,Resolved
+TCKT-0079,IT,Password Reset,2025-02-21,Resolved
+TCKT-0080,HR,Payslip Not Accessible,2024-08-29,Unresolved
+TCKT-0081,Operations,Order Delay,2024-08-13,Resolved
+TCKT-0082,HR,Profile Update Request,2025-08-02,Resolved
+TCKT-0083,HR,Payslip Not Accessible,2024-12-26,Unresolved
+TCKT-0084,IT,Printer Not Working,2025-06-30,Resolved
+TCKT-0085,Operations,Order Delay,2025-04-04,Resolved
+TCKT-0086,Sales,Lead Assignment Problem,2024-09-27,Unresolved
+TCKT-0087,Finance,Payment Failure,2024-08-25,Unresolved
+TCKT-0088,IT,Software Crash,2025-05-25,Unresolved
+TCKT-0089,Finance,Refund Request,2025-07-07,Unresolved
+TCKT-0090,Finance,Refund Request,2025-03-27,Resolved
+TCKT-0091,Finance,Incorrect Billing,2025-01-20,Resolved
+TCKT-0092,Finance,Refund Request,2025-03-11,Unresolved
+TCKT-0093,Finance,Payment Failure,2024-11-03,Unresolved
+TCKT-0094,Sales,Lead Assignment Problem,2025-01-17,Resolved
+TCKT-0095,Operations,Order Delay,2025-01-24,Resolved
+TCKT-0096,HR,Payslip Not Accessible,2024-12-06,Resolved
+TCKT-0097,IT,Password Reset,2025-05-10,Resolved
+TCKT-0098,Finance,Payment Failure,2025-08-08,Unresolved
+TCKT-0099,HR,Profile Update Request,2024-11-09,Resolved
+TCKT-0100,HR,Leave Balance Issue,2025-04-04,Resolved
