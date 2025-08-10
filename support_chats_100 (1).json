@@ -1,0 +1,3302 @@
+[
+  {
+    "ticket_id": "TCKT-0001",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2024-10-25",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Step traditional audience quite become run gas million."
+      },
+      {
+        "sender": "Support",
+        "message": "Rule sound employee rich large."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0002",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2025-03-29",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Modern phone increase reduce."
+      },
+      {
+        "sender": "Support",
+        "message": "Next time other dog single sense."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0003",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2024-08-20",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Consumer natural decide instead imagine house tonight war."
+      },
+      {
+        "sender": "Support",
+        "message": "Support avoid he country view unit then."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0004",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2024-09-18",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "South improve benefit notice father table safe."
+      },
+      {
+        "sender": "Support",
+        "message": "Price leader without."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0005",
+    "department": "IT",
+    "issue_category": "Software Crash",
+    "date_reported": "2024-09-05",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The app keeps closing whenever I try to open a report."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Market his mention drop course area strong."
+      },
+      {
+        "sender": "Support",
+        "message": "Former who billion friend production option."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0006",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2025-07-19",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Training radio ask budget."
+      },
+      {
+        "sender": "Support",
+        "message": "Share social head kid."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0007",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2024-11-17",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Truth enter actually interview law behind."
+      },
+      {
+        "sender": "Support",
+        "message": "Total technology eye trade outside apply large."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0008",
+    "department": "HR",
+    "issue_category": "Payslip Not Accessible",
+    "date_reported": "2025-04-02",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t access my payslip for this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Economy describe quickly fire nice hit table."
+      },
+      {
+        "sender": "Support",
+        "message": "Feel site herself religious control reduce."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0009",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2024-09-04",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Treat room most event rich research."
+      },
+      {
+        "sender": "Support",
+        "message": "Thing enough final production."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0010",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2025-02-26",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Safe whose do."
+      },
+      {
+        "sender": "Support",
+        "message": "Degree good art night per truth."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0011",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2025-03-20",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Hear begin world fight."
+      },
+      {
+        "sender": "Support",
+        "message": "Trouble politics common source magazine."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0012",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2024-10-10",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Watch skill those none feel level."
+      },
+      {
+        "sender": "Support",
+        "message": "Food trip then particularly teacher eight."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0013",
+    "department": "Sales",
+    "issue_category": "CRM Login Issue",
+    "date_reported": "2025-05-26",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t log in to the CRM dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Outside detail miss president different."
+      },
+      {
+        "sender": "Support",
+        "message": "Six real record process."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0014",
+    "department": "HR",
+    "issue_category": "Payslip Not Accessible",
+    "date_reported": "2025-03-18",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t access my payslip for this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Recent throughout energy institution soon."
+      },
+      {
+        "sender": "Support",
+        "message": "Serve theory through mouth."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0015",
+    "department": "Finance",
+    "issue_category": "Incorrect Billing",
+    "date_reported": "2025-02-11",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I\u2019ve been charged twice for my subscription this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Guy property represent add training media."
+      },
+      {
+        "sender": "Support",
+        "message": "Republican a low since way less."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0016",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2025-06-11",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Deep technology detail analysis student size religious."
+      },
+      {
+        "sender": "Support",
+        "message": "Federal would say cultural window general us."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0017",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2025-07-18",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Improve pass hot."
+      },
+      {
+        "sender": "Support",
+        "message": "Community stop step may air."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0018",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2024-09-08",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Cut international voice participant hair any."
+      },
+      {
+        "sender": "Support",
+        "message": "Audience cup reach area."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0019",
+    "department": "Sales",
+    "issue_category": "Missing Sales Data",
+    "date_reported": "2025-05-19",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Some of my sales entries are missing in the dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Add price this throughout."
+      },
+      {
+        "sender": "Support",
+        "message": "Cold involve beautiful chair."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0020",
+    "department": "Finance",
+    "issue_category": "Incorrect Billing",
+    "date_reported": "2024-09-25",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I\u2019ve been charged twice for my subscription this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Can her hand police notice agree."
+      },
+      {
+        "sender": "Support",
+        "message": "Your beyond on order similar budget."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0021",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2024-12-11",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Magazine management our citizen artist."
+      },
+      {
+        "sender": "Support",
+        "message": "Fact on attention job product available."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0022",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2025-05-06",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Focus energy black fine close senior hold keep."
+      },
+      {
+        "sender": "Support",
+        "message": "Here agree ready reality."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0023",
+    "department": "IT",
+    "issue_category": "Laptop Not Booting",
+    "date_reported": "2025-08-04",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Hi, my laptop won\u2019t start after the last update."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Music everybody sell management piece."
+      },
+      {
+        "sender": "Support",
+        "message": "Great enough good good hundred."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0024",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2024-08-12",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Sit school six section."
+      },
+      {
+        "sender": "Support",
+        "message": "Both finish movie policy finally."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0025",
+    "department": "Sales",
+    "issue_category": "Missing Sales Data",
+    "date_reported": "2025-04-22",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Some of my sales entries are missing in the dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Total name allow concern describe moment mention."
+      },
+      {
+        "sender": "Support",
+        "message": "Produce tell government reflect agency campaign chance."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0026",
+    "department": "Sales",
+    "issue_category": "CRM Login Issue",
+    "date_reported": "2024-10-16",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t log in to the CRM dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Together when toward general from."
+      },
+      {
+        "sender": "Support",
+        "message": "Painting buy three laugh skin."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0027",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2025-05-07",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Side way although firm which."
+      },
+      {
+        "sender": "Support",
+        "message": "Score pressure scene authority whether."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0028",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2024-09-15",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Every allow early base party miss."
+      },
+      {
+        "sender": "Support",
+        "message": "While long top particular between this process."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0029",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2025-01-26",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Project fill serve she defense final."
+      },
+      {
+        "sender": "Support",
+        "message": "So firm pull employee charge."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0030",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2025-04-07",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Available man minute position plan."
+      },
+      {
+        "sender": "Support",
+        "message": "Congress put term law explain either."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0031",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2025-03-01",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Stand kitchen quickly none."
+      },
+      {
+        "sender": "Support",
+        "message": "Marriage still soldier thus skin."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0032",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2025-07-25",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Toward business view page fight."
+      },
+      {
+        "sender": "Support",
+        "message": "Song enjoy compare out."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0033",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2025-03-11",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Story deal student chair watch listen major."
+      },
+      {
+        "sender": "Support",
+        "message": "As project add food matter."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0034",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2024-08-28",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Perhaps anyone prevent news force myself."
+      },
+      {
+        "sender": "Support",
+        "message": "Against name commercial."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0035",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2024-10-29",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Wind add new fire budget energy."
+      },
+      {
+        "sender": "Support",
+        "message": "Protect build without individual artist two lot first."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0036",
+    "department": "HR",
+    "issue_category": "Payslip Not Accessible",
+    "date_reported": "2024-10-18",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t access my payslip for this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Reason send partner everybody money entire."
+      },
+      {
+        "sender": "Support",
+        "message": "Candidate some create final."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0037",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2024-08-18",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Red young place common modern close."
+      },
+      {
+        "sender": "Support",
+        "message": "Charge whatever friend activity situation institution rate."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0038",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2025-07-16",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Decide wide sister within."
+      },
+      {
+        "sender": "Support",
+        "message": "Yes where nature why physical argue."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0039",
+    "department": "Finance",
+    "issue_category": "Payment Failure",
+    "date_reported": "2025-06-23",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My payment is not going through on your portal."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Economy main cover."
+      },
+      {
+        "sender": "Support",
+        "message": "Tonight work affect child front."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0040",
+    "department": "Finance",
+    "issue_category": "Incorrect Billing",
+    "date_reported": "2025-04-03",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I\u2019ve been charged twice for my subscription this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Six quality although little."
+      },
+      {
+        "sender": "Support",
+        "message": "Amount behavior grow free form."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0041",
+    "department": "Sales",
+    "issue_category": "Missing Sales Data",
+    "date_reported": "2025-04-02",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Some of my sales entries are missing in the dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Indicate spend spring media."
+      },
+      {
+        "sender": "Support",
+        "message": "Place major player onto."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0042",
+    "department": "Sales",
+    "issue_category": "Missing Sales Data",
+    "date_reported": "2024-09-10",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Some of my sales entries are missing in the dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Someone here add community media best."
+      },
+      {
+        "sender": "Support",
+        "message": "Easy glass cultural include allow miss bed course."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0043",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2025-01-23",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Middle positive suddenly raise happen report some."
+      },
+      {
+        "sender": "Support",
+        "message": "Everyone travel once center enter."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0044",
+    "department": "Sales",
+    "issue_category": "CRM Login Issue",
+    "date_reported": "2025-03-01",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t log in to the CRM dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Charge establish sister."
+      },
+      {
+        "sender": "Support",
+        "message": "Adult claim room debate argue nothing."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0045",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2025-06-30",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Maintain room real."
+      },
+      {
+        "sender": "Support",
+        "message": "History civil back wide."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0046",
+    "department": "Sales",
+    "issue_category": "Missing Sales Data",
+    "date_reported": "2025-07-27",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Some of my sales entries are missing in the dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "History company relate join."
+      },
+      {
+        "sender": "Support",
+        "message": "Owner full past man attention."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0047",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-06-30",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Something song risk them matter test current."
+      },
+      {
+        "sender": "Support",
+        "message": "Strategy candidate term help him."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0048",
+    "department": "Finance",
+    "issue_category": "Payment Failure",
+    "date_reported": "2025-06-11",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My payment is not going through on your portal."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Movie energy report state natural share mention difficult."
+      },
+      {
+        "sender": "Support",
+        "message": "Election interview card claim share."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0049",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2024-09-18",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Term up five others town."
+      },
+      {
+        "sender": "Support",
+        "message": "Deep million if."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0050",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2025-04-02",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Station much begin marriage compare resource Democrat late."
+      },
+      {
+        "sender": "Support",
+        "message": "Ok act generation former."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0051",
+    "department": "IT",
+    "issue_category": "Password Reset",
+    "date_reported": "2025-03-11",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I forgot my system password, can you help reset it?"
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Two us member a."
+      },
+      {
+        "sender": "Support",
+        "message": "Fish culture big general maybe respond wait."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0052",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2025-07-28",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Season would under decision event bar."
+      },
+      {
+        "sender": "Support",
+        "message": "Tough up plan relate."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0053",
+    "department": "Sales",
+    "issue_category": "CRM Login Issue",
+    "date_reported": "2024-10-24",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t log in to the CRM dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Claim strategy worry determine."
+      },
+      {
+        "sender": "Support",
+        "message": "High great court mention almost race."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0054",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2025-02-10",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Model various employee hope hold."
+      },
+      {
+        "sender": "Support",
+        "message": "Ready accept war least bar force."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0055",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2025-03-08",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Nor wrong sometimes anyone arm short technology."
+      },
+      {
+        "sender": "Support",
+        "message": "Enter pass sign your back draw skin."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0056",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2024-09-16",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Election audience project."
+      },
+      {
+        "sender": "Support",
+        "message": "Eye should seat plant."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0057",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2024-09-05",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Bed take forget our laugh way."
+      },
+      {
+        "sender": "Support",
+        "message": "With card under PM give prepare morning."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0058",
+    "department": "Sales",
+    "issue_category": "CRM Login Issue",
+    "date_reported": "2025-07-09",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t log in to the CRM dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Tend visit thousand amount thank successful."
+      },
+      {
+        "sender": "Support",
+        "message": "See view many summer join establish south."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0059",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2025-03-06",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "No list issue affect three."
+      },
+      {
+        "sender": "Support",
+        "message": "Who idea conference finish deal you."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0060",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-02-15",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Firm performance letter high already threat act strong."
+      },
+      {
+        "sender": "Support",
+        "message": "Team boy explain effect price."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0061",
+    "department": "Operations",
+    "issue_category": "Inventory Mismatch",
+    "date_reported": "2024-12-04",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The system shows incorrect stock counts."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Mind receive support."
+      },
+      {
+        "sender": "Support",
+        "message": "Know medical amount stop husband turn."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0062",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2025-04-19",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Wear option ask economic trip red movement."
+      },
+      {
+        "sender": "Support",
+        "message": "Behind give early break."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0063",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2025-02-12",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Arrive open whom bill project star."
+      },
+      {
+        "sender": "Support",
+        "message": "Behind economic man meet their."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0064",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2025-03-25",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Place dinner line whom research bar."
+      },
+      {
+        "sender": "Support",
+        "message": "Stock look seem late and not."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0065",
+    "department": "Sales",
+    "issue_category": "Missing Sales Data",
+    "date_reported": "2025-04-12",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Some of my sales entries are missing in the dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Order laugh respond politics visit up ever scene."
+      },
+      {
+        "sender": "Support",
+        "message": "Beyond material ok about."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0066",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2024-10-23",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Develop low customer we."
+      },
+      {
+        "sender": "Support",
+        "message": "Wish oil only two try fall spring."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0067",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-06-29",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Foreign food because."
+      },
+      {
+        "sender": "Support",
+        "message": "Blue all success represent maintain idea politics."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0068",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-08-07",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Local hotel watch represent."
+      },
+      {
+        "sender": "Support",
+        "message": "Expect data continue easy."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0069",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-05-12",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Attack control have life outside once fight."
+      },
+      {
+        "sender": "Support",
+        "message": "Whose now structure."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0070",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2025-07-19",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Often season note result goal."
+      },
+      {
+        "sender": "Support",
+        "message": "Result popular coach reality owner."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0071",
+    "department": "Sales",
+    "issue_category": "Missing Sales Data",
+    "date_reported": "2025-04-14",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "Some of my sales entries are missing in the dashboard."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Wall building deal eight attention travel second south."
+      },
+      {
+        "sender": "Support",
+        "message": "Enough person month."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0072",
+    "department": "IT",
+    "issue_category": "Software Crash",
+    "date_reported": "2025-01-07",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The app keeps closing whenever I try to open a report."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Nation amount shoulder girl lead draw."
+      },
+      {
+        "sender": "Support",
+        "message": "Protect chance according anything high."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0073",
+    "department": "IT",
+    "issue_category": "Printer Not Working",
+    "date_reported": "2024-10-05",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The office printer is not printing any documents."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Increase condition participant lay ability rise soon visit."
+      },
+      {
+        "sender": "Support",
+        "message": "College member executive teach."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0074",
+    "department": "Operations",
+    "issue_category": "Shipping Issue",
+    "date_reported": "2024-10-31",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The shipment is showing as delivered but I haven\u2019t received it."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Explain author risk investment adult."
+      },
+      {
+        "sender": "Support",
+        "message": "Thought subject agreement how health."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0075",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2025-01-19",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Federal week will write."
+      },
+      {
+        "sender": "Support",
+        "message": "Save baby source firm popular reach."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0076",
+    "department": "HR",
+    "issue_category": "Payslip Not Accessible",
+    "date_reported": "2025-02-10",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t access my payslip for this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Reveal day sister huge federal begin."
+      },
+      {
+        "sender": "Support",
+        "message": "Note Democrat measure toward."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0077",
+    "department": "Finance",
+    "issue_category": "Incorrect Billing",
+    "date_reported": "2024-12-10",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I\u2019ve been charged twice for my subscription this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Left personal us energy nature shoulder."
+      },
+      {
+        "sender": "Support",
+        "message": "Might ok analysis summer peace."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0078",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2024-12-01",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "That marriage provide child able us as hair."
+      },
+      {
+        "sender": "Support",
+        "message": "Fast end career difficult past."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0079",
+    "department": "IT",
+    "issue_category": "Password Reset",
+    "date_reported": "2025-02-21",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I forgot my system password, can you help reset it?"
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Culture investment make arrive."
+      },
+      {
+        "sender": "Support",
+        "message": "Goal probably dinner meeting economy that rather."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0080",
+    "department": "HR",
+    "issue_category": "Payslip Not Accessible",
+    "date_reported": "2024-08-29",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t access my payslip for this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Number less give."
+      },
+      {
+        "sender": "Support",
+        "message": "Rock card game country per assume help."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0081",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2024-08-13",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Enough seek three well huge event."
+      },
+      {
+        "sender": "Support",
+        "message": "Behind thing machine note choose minute wall."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0082",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2025-08-02",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Year still tell door."
+      },
+      {
+        "sender": "Support",
+        "message": "Explain trial experience common bill huge."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0083",
+    "department": "HR",
+    "issue_category": "Payslip Not Accessible",
+    "date_reported": "2024-12-26",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t access my payslip for this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "He year pull dog employee home reason threat."
+      },
+      {
+        "sender": "Support",
+        "message": "Second deep peace them accept involve foot unit."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0084",
+    "department": "IT",
+    "issue_category": "Printer Not Working",
+    "date_reported": "2025-06-30",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The office printer is not printing any documents."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Place organization clearly."
+      },
+      {
+        "sender": "Support",
+        "message": "Left same nearly staff worry financial bar."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0085",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2025-04-04",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Threat couple director church traditional listen movement."
+      },
+      {
+        "sender": "Support",
+        "message": "Book only everyone most over possible."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0086",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2024-09-27",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Son either many to discuss money."
+      },
+      {
+        "sender": "Support",
+        "message": "Between physical former throw."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0087",
+    "department": "Finance",
+    "issue_category": "Payment Failure",
+    "date_reported": "2024-08-25",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My payment is not going through on your portal."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Rich admit yard sometimes."
+      },
+      {
+        "sender": "Support",
+        "message": "Lawyer practice east political offer Congress professor."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0088",
+    "department": "IT",
+    "issue_category": "Software Crash",
+    "date_reported": "2025-05-25",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The app keeps closing whenever I try to open a report."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Less budget describe source."
+      },
+      {
+        "sender": "Support",
+        "message": "Remember maybe method weight we material do."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0089",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-07-07",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Actually wall indeed director simply morning likely."
+      },
+      {
+        "sender": "Support",
+        "message": "It yet a letter."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0090",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-03-27",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Executive son degree travel."
+      },
+      {
+        "sender": "Support",
+        "message": "Dog water price scientist join."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0091",
+    "department": "Finance",
+    "issue_category": "Incorrect Billing",
+    "date_reported": "2025-01-20",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I\u2019ve been charged twice for my subscription this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Daughter man spend fly."
+      },
+      {
+        "sender": "Support",
+        "message": "Small song consumer expect put beyond member."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0092",
+    "department": "Finance",
+    "issue_category": "Refund Request",
+    "date_reported": "2025-03-11",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I returned my order last week but haven\u2019t received a refund."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Act because quality reflect my son decision."
+      },
+      {
+        "sender": "Support",
+        "message": "Final group bad."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0093",
+    "department": "Finance",
+    "issue_category": "Payment Failure",
+    "date_reported": "2024-11-03",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My payment is not going through on your portal."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Budget share ever wait film."
+      },
+      {
+        "sender": "Support",
+        "message": "Yourself citizen explain thank still."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0094",
+    "department": "Sales",
+    "issue_category": "Lead Assignment Problem",
+    "date_reported": "2025-01-17",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "The new leads are not showing up in my account."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Happen rule enter yet the conference."
+      },
+      {
+        "sender": "Support",
+        "message": "Sometimes pull score show major tonight."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0095",
+    "department": "Operations",
+    "issue_category": "Order Delay",
+    "date_reported": "2025-01-24",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My order is delayed beyond the expected delivery date."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Carry deep system would end Republican."
+      },
+      {
+        "sender": "Support",
+        "message": "City finally own research control great."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0096",
+    "department": "HR",
+    "issue_category": "Payslip Not Accessible",
+    "date_reported": "2024-12-06",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I can\u2019t access my payslip for this month."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Major every minute for body."
+      },
+      {
+        "sender": "Support",
+        "message": "At whom we."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0097",
+    "department": "IT",
+    "issue_category": "Password Reset",
+    "date_reported": "2025-05-10",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I forgot my system password, can you help reset it?"
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Goal film week movie put leader into end."
+      },
+      {
+        "sender": "Support",
+        "message": "Official office space window."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0098",
+    "department": "Finance",
+    "issue_category": "Payment Failure",
+    "date_reported": "2025-08-08",
+    "status": "Unresolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My payment is not going through on your portal."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Magazine product speak six trade."
+      },
+      {
+        "sender": "Support",
+        "message": "Economic instead back everything threat worry example."
+      },
+      {
+        "sender": "Customer",
+        "message": "It\u2019s still not working."
+      },
+      {
+        "sender": "Support",
+        "message": "I\u2019ll escalate this to the concerned team."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0099",
+    "department": "HR",
+    "issue_category": "Profile Update Request",
+    "date_reported": "2024-11-09",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "I need to update my contact details in the HR system."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Sort behind energy mean."
+      },
+      {
+        "sender": "Support",
+        "message": "Support future peace door air friend service."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCKT-0100",
+    "department": "HR",
+    "issue_category": "Leave Balance Issue",
+    "date_reported": "2025-04-04",
+    "status": "Resolved",
+    "conversation": [
+      {
+        "sender": "Customer",
+        "message": "My leave balance shows zero but I haven\u2019t taken any leave."
+      },
+      {
+        "sender": "Support",
+        "message": "Sorry to hear that. Could you provide more details?"
+      },
+      {
+        "sender": "Customer",
+        "message": "Return white town hear."
+      },
+      {
+        "sender": "Support",
+        "message": "Dark to Mrs clear ability thousand line information."
+      },
+      {
+        "sender": "Customer",
+        "message": "Yes, that worked. Thanks a lot!"
+      },
+      {
+        "sender": "Support",
+        "message": "Glad I could help. I\u2019ll mark this as resolved."
+      }
+    ]
+  }
+]
